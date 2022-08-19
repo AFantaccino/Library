@@ -1,0 +1,16 @@
+button {
+    height: 30px;
+    width: auto;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.read {
+    background-color: green;
+}
+
+.notread {
+    background-color: red;
+}
